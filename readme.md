@@ -10,3 +10,11 @@
 - What is the use of -g while npm install
 
 ==============================================================================================
+
+- Initialize git
+- .gitignore
+- create a remote repo on github
+- push all code to remote origin
+- Play with route extensions, ex: /hello/2, /hello
+- Order of the routes matter
+- Install Postman and make an test api call
