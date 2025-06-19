@@ -10,3 +10,7 @@ app.use('/hello', (req, res) => {
 app.get('/', (req, res) => {
   res.send('Hello From Home Page');
 });
+
+app.get('/user', (req, res) => {
+  res.send({ firstname: 'Pavan', lastname: 'naik' });
+});

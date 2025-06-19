@@ -18,3 +18,7 @@
 - Play with route extensions, ex: /hello/2, /hello
 - Order of the routes matter
 - Install Postman and make an test api call
+- Write logic to handle GET, POST, PATCH, DELETE API calls and test them on Postman
+- Expore diffent kind of routing and use of ?, +, \*, () in the routes
+- Use of regex in routes /a/, /.\*fly$/
+- Reading the Express documentation
